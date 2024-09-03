@@ -12,10 +12,16 @@ This Chrome extension automatically refreshes the URLs of all open websites in t
 
 To install the extension in your Chrome browser:
 
-1. Clone this repository or download it as a ZIP file and extract it.
-2. Open Chrome and go to `chrome://extensions/`.
-3. Enable **Developer mode** in the top right corner.
-4. Click on **Load unpacked** and select the directory where you extracted the extension.
+1. Clone this repository:
+
+   ```bash
+   git clone https://github.com/ohnogaurav/ChromeExtension.git
+   cd ChromeExtension
+
+4. Or download it as a ZIP file and extract it.
+5. Open Chrome and go to `chrome://extensions/`.
+6. Enable **Developer mode** in the top right corner.
+7. Click on **Load unpacked** and select the directory where you extracted the extension.
 
 ## Usage
 
