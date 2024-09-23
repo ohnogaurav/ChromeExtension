@@ -1,6 +1,6 @@
 # Auto Refresh Chrome Extension
 
-This Chrome extension Automatically refreshes the URLs of all open websites in tabs at regular intervals.
+This Chrome extension Automatically Refreshes the URLs of all open websites in tabs at regular intervals.
 
 ## Features
 
