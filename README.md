@@ -10,7 +10,7 @@ This Chrome extension Automatically Refreshes the URLs of all open websites in t
 
 ## Installation
 
-To install the extension in your Chrome browser:
+To install the Exxtension in your Chrome browser:
 
 1. Clone this repository:
 
